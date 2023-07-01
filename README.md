@@ -57,7 +57,3 @@ npm run start | yarn start
 This project is under the MIT license. See [LICENSE](/LICENSE) for more information.
 
 ---
-
-<p align="center">
-Developed with 💚 by <a href="https://www.linkedin.com/in/osvaldokalvaitir">Osvaldo Kalvaitir Filho</a>
-</p>
